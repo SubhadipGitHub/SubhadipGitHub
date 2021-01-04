@@ -25,7 +25,7 @@ Python | Java | Deep Learning | Groovy | 3d
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: He/Him
 
-<!--START_SECTION:activity--
+<!--START_SECTION:activity-->
 
 <table><tr><td valign="top" width="50%">
 
