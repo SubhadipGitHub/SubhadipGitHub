@@ -25,20 +25,6 @@ Python | Java | Deep Learning | Groovy | 3d
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: He/Him
 
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2301](https://github.com/webpack/webpack-cli/pull/2301) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#2300](https://github.com/webpack/webpack-cli/pull/2300) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 💪 Opened PR [#4371](https://github.com/webpack/webpack.js.org/pull/4371) in [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org)
-4. 🎉 Merged PR [#2297](https://github.com/webpack/webpack-cli/pull/2297) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#2297](https://github.com/webpack/webpack-cli/pull/2297) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-<!--END_SECTION:activity-->
-
----
-
 <table><tr><td valign="top" width="50%">
 
 ### My Digital Content 🌱
