@@ -12,7 +12,7 @@ Python | Java | Deep Learning | Groovy | 3d
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Subhadip Spotify Playing" width="350" />](https://open.spotify.com/user/31bujhbxsfwx35z6fux34cyma5e4)
+[<img src="https://subhadip-git-r.vercel.app/api/spotify-playing" alt="Subhadip Spotify Playing" width="350" />](https://open.spotify.com/user/31bujhbxsfwx35z6fux34cyma5e4)
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <!-- Namaste 🙏 -->
