@@ -57,5 +57,3 @@ Check out my latest videos on [YouTube](https://www.youtube.com/watch?v=fjsZefIT
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
