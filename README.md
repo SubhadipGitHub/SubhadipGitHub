@@ -54,3 +54,5 @@ Check out my latest videos on [YouTube](https://www.youtube.com/watch?v=fjsZefIT
 [youtube]: https://www.youtube.com/channel/UC6m7b8JYsHZEswhRcqFA2pw
 [Hashnode]: https://hashnode.com/@SubhadipDutta
 [linkedin]: https://www.linkedin.com/in/subhadip1993/
+
+<!--START_SECTION:activity-->
