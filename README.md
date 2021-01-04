@@ -29,12 +29,16 @@ Python | Java | Deep Learning | Groovy | 3d
 
 ### My Digital Content 🌱
 You can find my blogs at my [Website](https://hashnode.com/@SubhadipDutta).
+- [Python 3.9: Creating a Discord Bot](https://www.linkedin.com/feed/update/urn:li:activity:6748267875565469696/)
+- [Python 3.9: Chess Analytics](https://www.linkedin.com/pulse/chess-analytics-basics-subhadip-dutta/)
 - [Python 3.9: Predict Student Scores](https://github.com/SubhadipGitHub/PredictionStudentScore)
 </td>
 <td valign="top" width="45%">
 
 ### My Video Content 🌱
 Check out my latest videos on [YouTube](https://www.youtube.com/watch?v=fjsZefITr-A&list=PLeGwOlhdV2ZyKFEHnuzpGqJmBk4L2kpyO):
+- [Python 3.9: Chess Analytics](https://www.youtube.com/watch?v=jt4Y-WBrqeE&t=57s)
+- [Python 3.9: Predict Student Scores(ML)](https://www.youtube.com/watch?v=fjsZefITr-A&t=10s)
 </td>
 
  <details>
