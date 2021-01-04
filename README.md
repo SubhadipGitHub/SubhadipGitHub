@@ -56,3 +56,6 @@ Check out my latest videos on [YouTube](https://www.youtube.com/watch?v=fjsZefIT
 [linkedin]: https://www.linkedin.com/in/subhadip1993/
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
